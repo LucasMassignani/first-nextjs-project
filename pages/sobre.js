@@ -1,14 +1,14 @@
 import Link from 'next/link'
 
-function Wilho() {
+function Sobre() {
   return (
     <div>
-      <h1>Fala Wilho</h1>
+      <h1>Sobre</h1>
       <Link href="/">
-        <a>Fala Home</a>
+        <a>Pagina Home</a>
       </Link>
     </div>
   )
 }
 
-export default Wilho
+export default Sobre

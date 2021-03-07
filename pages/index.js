@@ -4,8 +4,8 @@ function Home() {
   return (
     <div>
       <h1>Página inicial</h1>
-      <Link href="/wilho">
-        <a>Fala Wilho</a>
+      <Link href="/sobre">
+        <a>Pagina sobre</a>
       </Link>
     </div>
   )
